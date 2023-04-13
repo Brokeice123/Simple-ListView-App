@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Simple-List-View-App-Keith</string>
+
+    <string-array name="services">
+        <item>FULIZA</item>
+        <item>SEND MONEY</item>
+        <item>KCB MPESA</item>
+        <item>CHECK BALANCE</item>
+        <item>MSHWARI</item>
+
+    </string-array>
+
+
+
+</resources>
